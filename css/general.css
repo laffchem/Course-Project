@@ -178,3 +178,8 @@ body {
   margin: 0 auto;
   padding: 0 3.2rem;
 }
+
+/* General Font Stuff */
+strong {
+  font-weight: 500;
+}
