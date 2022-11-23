@@ -129,14 +129,16 @@ Recipe directory
 Help center
 Privacy & terms
 
+######
+
 ## Sections
 
-- Navigation
+- Logo + Navigation
 - Hero
-- Featured In
+- Featured in
 - How it works
 - Meals (and list of diets)
-- Testimonials + Gallery
-- Pricing + Features
-- Call to Action
+- Testimonials + gallery
+- Pricing + features
+- CTA
 - Footer
